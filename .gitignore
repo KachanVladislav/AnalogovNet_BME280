@@ -1,0 +1,28 @@
+# STM32CubeIDE generated files and build artifacts
+
+# Build Output directories (Debug/Release)
+/Debug/
+/Release/
+/build/
+
+# Eclipse IDE specific settings and metadata
+/.settings/
+.metadata/
+
+# Generated files
+*.elf
+*.map
+*.hex
+*.bin
+*.d
+*.o
+*.su
+
+# Eclipse Launch configuration files (optional - only ignore if paths are absolute/user-specific)
+*.launch
+
+# Other common OS-specific temporary files
+*~
+~$*
+.DS_Store
+Thumbs.db
